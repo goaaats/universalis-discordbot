@@ -1,0 +1,14 @@
+{
+  "name": "universalis-discordbot",
+  "version": "1.0.0",
+  "description": "Discord Bot for universalis.app",
+  "main": "index.js",
+  "repository": "https://github.com/goaaats/universalis-discordbot",
+  "author": "goatsoft",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1"
+  }
+}
